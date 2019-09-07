@@ -8,3 +8,5 @@ This is the wedding planning app that we are building for our Chingu Cohort proj
 * Contact List
 * Todo List
 * Landing Page
+* Guest List
+* Budget Tracker
